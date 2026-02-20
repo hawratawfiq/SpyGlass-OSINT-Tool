@@ -26,7 +26,7 @@ SpyGlass is an open-source Python OSINT tool developed for cybersecurity profess
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/SpyGlass-OSINT-Tool.git
+git clone https://github.com/hawratawfiq/SpyGlass-OSINT-Tool.git
 cd SpyGlass-OSINT-Tool
 pip install -r requirements.txt
 ```
@@ -42,4 +42,5 @@ Enter the target domain when prompted.
 ## Authors
 
 * Hawra Al-Basheer
+
 * Dana Alotaibi
